@@ -52,7 +52,7 @@ function send()
 	}
 	else
 	{
-		alert("Please enter a valid phone number.");
+		alert("Inserisci un numero di telefono valido!");
 		document.messageForm.phone.focus();
 	}
 
